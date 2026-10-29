@@ -1,0 +1,2 @@
+[functions.publish-property]
+verify_jwt = true
